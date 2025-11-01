@@ -11,6 +11,12 @@ export default defineUserConfig({
 
   theme,
 
+  // 设置浏览器标签图标
+  head: [
+    ["link", { rel: "icon", href: "/logo.png" }],
+    ["link", { rel: "apple-touch-icon", href: "/logo.png" }],
+  ],
+
   // 和 PWA 一起启用
   // shouldPrefetch: false,
 });
