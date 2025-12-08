@@ -22,5 +22,11 @@
                 }
             ]
         }
+    ],
+    "rewrites": [
+        {
+            "source": "/api/artalk/:path*",
+            "destination": "https://artalk.xuanniao.fun:10000/api/:path*"
+        }
     ]
 }
