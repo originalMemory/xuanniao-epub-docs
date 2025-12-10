@@ -6,7 +6,7 @@
 
 后缀有 console 的是会显示控制台，正常不需要，如果有稳定复现的崩溃或报错，请用这个看下报错日志发给我。
 
-[百度网盘](https://pan.baidu.com/s/1BLmq5tZe7YYi_4YC6KNhlA?pwd=dkfq)
+[百度网盘](https://pan.baidu.com/s/1BLmq5tZe7YYi_4YC6KNhlA?pwd=dkfq)  [夸克网盘](https://pan.quark.cn/s/a75a9b3be3e4?pwd=JdG6)
 
 ## 更新记录
 
@@ -61,6 +61,6 @@
 - 修复在多层目录中添加资源时可能重复创建顶级项目的问题
 - 修复多层目录时的拆分会重复添加的问题
 
-### 2025-11-01 1.0.0
+### 1.0.0 - 2025-11-01
 
 - 初版功能
